@@ -67,7 +67,7 @@ p{
 }
 .certification{
     height: 755px;
-    background-image: url("image/cert.jpg");
+    background-image: url("cert.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 400px;
